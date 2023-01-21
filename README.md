@@ -3,7 +3,15 @@ About
 =====
 Play with ranking Humman (AI play as white):
 
+Dear Professor, 
 
+We have achieved a good performance model using search to play with humans. The current model has been trained on 3 datasets.
+
+1) 42,000 games replay of human vs bot and human vs human
+2) 32, 000 games  self-play using MCTS, with 50 simulations per move
+3) 3, 000 games self-play, with 250 simulations per move.
+
+The latest model with 500 simulations per move, play as White wins the 254-ranking human player as Black.
 ![hive_3](https://user-images.githubusercontent.com/13064213/213841954-5279c61b-27b3-4776-9f15-f90287fc4f17.gif)
 
 
