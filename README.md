@@ -1,6 +1,7 @@
 # hive-Alphazero
 About
 =====
+![hive_2](https://user-images.githubusercontent.com/13064213/213837525-11730736-b98e-4878-81a4-4e335c4351d6.gif)
 
 Hive reinforcement learning by using [Chess AlphaZero](https://arxiv.org/pdf/1712.01815.pdf/) methods.
 
