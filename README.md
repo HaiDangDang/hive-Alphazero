@@ -1,7 +1,9 @@
 # hive-Alphazero
 About
 =====
-AI play as white
+AI play as white:
+
+
 ![hive_3](https://user-images.githubusercontent.com/13064213/213841954-5279c61b-27b3-4776-9f15-f90287fc4f17.gif)
 
 
