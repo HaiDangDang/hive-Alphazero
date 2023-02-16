@@ -1,3 +1,6 @@
+# Research paper
+[Report](hive-report.pdf)
+
 # hive-Alphazero
 About
 =====
